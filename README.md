@@ -1,3 +1,5 @@
+> O repositório oficial está na conta da Mariah-Gomes; eu apenas o repostei na minha também.
+
 # Banco Java
 
 > Status do projeto: Finalizado
